@@ -7,7 +7,7 @@ function App() {
 
 	return (
 		<div className="container">
-			<img src={logo} alt="Logomarca Air BnB Clone"/>
+			<img src={logo} alt="Logomarca EdBnB"/>
 			<div className="content">
 				<Routes>
 				
