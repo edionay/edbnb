@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/edbnb/static/css/main.a9c0be35.chunk.css",
+    "main.js": "/edbnb/static/js/main.e75af569.chunk.js",
+    "main.js.map": "/edbnb/static/js/main.e75af569.chunk.js.map",
+    "runtime-main.js": "/edbnb/static/js/runtime-main.36179d12.js",
+    "runtime-main.js.map": "/edbnb/static/js/runtime-main.36179d12.js.map",
+    "static/js/2.86472728.chunk.js": "/edbnb/static/js/2.86472728.chunk.js",
+    "static/js/2.86472728.chunk.js.map": "/edbnb/static/js/2.86472728.chunk.js.map",
+    "index.html": "/edbnb/index.html",
+    "precache-manifest.f1a7bb9ebc283c35917dec15b7261a5a.js": "/edbnb/precache-manifest.f1a7bb9ebc283c35917dec15b7261a5a.js",
+    "service-worker.js": "/edbnb/service-worker.js",
+    "static/css/main.a9c0be35.chunk.css.map": "/edbnb/static/css/main.a9c0be35.chunk.css.map",
+    "static/media/App.css": "/edbnb/static/media/background.83252e0a.jpg",
+    "static/media/camera.svg": "/edbnb/static/media/camera.6a6f4b6e.svg",
+    "static/media/logo.svg": "/edbnb/static/media/logo.8f15ca1b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36179d12.js",
+    "static/js/2.86472728.chunk.js",
+    "static/css/main.a9c0be35.chunk.css",
+    "static/js/main.e75af569.chunk.js"
+  ]
+}
