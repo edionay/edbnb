@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "22b4fb0236c5e0ade4cf34bf47594a56",
+    "revision": "e04b9b73103393b601eaf31ef79ba564",
     "url": "/edbnb/index.html"
   },
   {
-    "revision": "b2bad28f57f0d8eb697c",
+    "revision": "c88f8a9341dd2e368bf9",
     "url": "/edbnb/static/css/main.a9c0be35.chunk.css"
   },
   {
-    "revision": "48103cfa5112fbeb9120",
-    "url": "/edbnb/static/js/2.dd8e5b61.chunk.js"
+    "revision": "b1fd122b4fcf2a7f9e9b",
+    "url": "/edbnb/static/js/2.5c6c57a6.chunk.js"
   },
   {
-    "revision": "b2bad28f57f0d8eb697c",
-    "url": "/edbnb/static/js/main.2b3e1944.chunk.js"
+    "revision": "c88f8a9341dd2e368bf9",
+    "url": "/edbnb/static/js/main.0fa96a25.chunk.js"
   },
   {
     "revision": "d160d160f6e458cbb2e0",
