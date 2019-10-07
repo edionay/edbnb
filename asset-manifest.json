@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/edbnb/static/css/main.a9c0be35.chunk.css",
-    "main.js": "/edbnb/static/js/main.2d05558c.chunk.js",
-    "main.js.map": "/edbnb/static/js/main.2d05558c.chunk.js.map",
+    "main.js": "/edbnb/static/js/main.2b3e1944.chunk.js",
+    "main.js.map": "/edbnb/static/js/main.2b3e1944.chunk.js.map",
     "runtime-main.js": "/edbnb/static/js/runtime-main.36179d12.js",
     "runtime-main.js.map": "/edbnb/static/js/runtime-main.36179d12.js.map",
-    "static/js/2.f2a80611.chunk.js": "/edbnb/static/js/2.f2a80611.chunk.js",
-    "static/js/2.f2a80611.chunk.js.map": "/edbnb/static/js/2.f2a80611.chunk.js.map",
+    "static/js/2.dd8e5b61.chunk.js": "/edbnb/static/js/2.dd8e5b61.chunk.js",
+    "static/js/2.dd8e5b61.chunk.js.map": "/edbnb/static/js/2.dd8e5b61.chunk.js.map",
     "index.html": "/edbnb/index.html",
-    "precache-manifest.89b5a54c1ab5aae715555ad2af3f5001.js": "/edbnb/precache-manifest.89b5a54c1ab5aae715555ad2af3f5001.js",
+    "precache-manifest.13538a2938af9675f4217bd270e6c030.js": "/edbnb/precache-manifest.13538a2938af9675f4217bd270e6c030.js",
     "service-worker.js": "/edbnb/service-worker.js",
     "static/css/main.a9c0be35.chunk.css.map": "/edbnb/static/css/main.a9c0be35.chunk.css.map",
     "static/media/App.css": "/edbnb/static/media/background.83252e0a.jpg",
@@ -17,8 +17,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.36179d12.js",
-    "static/js/2.f2a80611.chunk.js",
+    "static/js/2.dd8e5b61.chunk.js",
     "static/css/main.a9c0be35.chunk.css",
-    "static/js/main.2d05558c.chunk.js"
+    "static/js/main.2b3e1944.chunk.js"
   ]
 }
